@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "nama_produk":"Baju",
+        "harga":10000,
+        "jenis":"Pakaian"
+    },
+    {
+        "id": 2,
+        "nama_produk":"Celana",
+        "harga":20000,
+        "jenis":"Pakaian"
+    },
+    {
+        "id": 3,
+        "nama_produk":"Topi",
+        "harga":5000,
+        "jenis":"Aksesoris"
+    },
+    {
+        "id": 4,
+        "nama_produk":"Sepatu",
+        "harga":100000,
+        "jenis":"Pakaian"
+    },
+    {
+        "id": 5,
+        "nama_produk":"Jam Tangan",
+        "harga":50000,
+        "jenis":"Aksesoris"
+    }
+]
